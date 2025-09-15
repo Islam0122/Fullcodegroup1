@@ -1,11 +1,11 @@
 import asyncio
 from aiogram import Bot,Dispatcher
-from .islam_handlers import islam_router
+from .nazima03_handlers import nazima03_router
 
-TOKEN = "8227707236:AAFlQlr8OvklYp9v8hbOvOkQ3FaTimbpVhQ"
+TOKEN = "7427361367:AAGKMJ1hU9YnqY_hLtIPFNU4HclqcnReBl0gi"
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
-dp.include_router(islam_router)
+dp.include_router(nazima03_router)
 
 
 async def startup():
