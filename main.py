@@ -1,9 +1,11 @@
 import asyncio
 from aiogram import Bot,Dispatcher
+from .islam_handlers import islam_router
 
 TOKEN = "8227707236:AAFlQlr8OvklYp9v8hbOvOkQ3FaTimbpVhQ"
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
+dp.include_router(islam_router)
 
 
 async def startup():
