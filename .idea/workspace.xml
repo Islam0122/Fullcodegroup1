@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18b1dfec-65a7-47cd-b768-dd13f0a49b16" name="Changes" comment="" />
+    <list default="true" id="29ef3878-f46a-410e-ab5d-87b23555bea2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,19 +25,19 @@
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
     "state": "OPEN",
-    "assignee": "Islam0122"
+    "assignee": "nazimamusaeva741-arch"
   }
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Islam0122/Fullcodegroup1.git",
-    "accountId": "d5763de0-a2cb-434d-a86f-2e835ed821fb"
+    "accountId": "6a5fa212-9e07-4a49-9492-2da5595a8faa"
   }
 }]]></component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="32jKd4crl8YL1lOTPZVKNNVn6Vi" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="32jfgDSpr1KyY4F2Kq7Eshcxisd" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,24 +46,26 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "nazima03",
+    "last_opened_file_path": "/home/nazima/Fullcodegroup1"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+        <option value="bundled-python-sdk-8753aad8314d-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.25557.178" />
       </set>
     </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="18b1dfec-65a7-47cd-b768-dd13f0a49b16" name="Changes" comment="" />
-      <created>1757928625802</created>
+      <changelist id="29ef3878-f46a-410e-ab5d-87b23555bea2" name="Changes" comment="" />
+      <created>1757939011350</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1757928625802</updated>
+      <updated>1757939011350</updated>
     </task>
     <servers />
   </component>
