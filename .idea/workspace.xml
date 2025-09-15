@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18b1dfec-65a7-47cd-b768-dd13f0a49b16" name="Changes" comment="" />
+    <list default="true" id="8e900219-adb5-43a9-b482-6ad2c85bc9ff" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,19 +23,19 @@
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
     "state": "OPEN",
-    "assignee": "Islam0122"
+    "assignee": "Yrysintbot"
   }
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/Islam0122/Fullcodegroup1.git",
-    "accountId": "d5763de0-a2cb-434d-a86f-2e835ed821fb"
+    "url": "https://github.com/Islam0122/Fullcodegroup1",
+    "accountId": "f0d978e2-d97d-4555-9cd2-d52ae06e7970"
   }
 }]]></component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
-}</component>
-  <component name="ProjectId" id="32jKd4crl8YL1lOTPZVKNNVn6Vi" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="32jfyEWiTJdCoee1ZI37Y1q31hp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,24 +44,26 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "yrys",
+    "last_opened_file_path": "/home/yryskeldi/Документы/Fullcodegroup1"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+        <option value="bundled-python-sdk-8753aad8314d-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.25557.178" />
       </set>
     </attachedChunks>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="18b1dfec-65a7-47cd-b768-dd13f0a49b16" name="Changes" comment="" />
-      <created>1757928625802</created>
+      <changelist id="8e900219-adb5-43a9-b482-6ad2c85bc9ff" name="Changes" comment="" />
+      <created>1757939154856</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1757928625802</updated>
+      <updated>1757939154856</updated>
     </task>
     <servers />
   </component>
