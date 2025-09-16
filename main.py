@@ -1,12 +1,12 @@
 import asyncio
 from aiogram import Bot,Dispatcher
-from .islam_handlers import islam_router
-from .nazima03_handlers import nazima03_router
-from .aijarkyn_handlers import aijarkyn_router
-from .aisara_handlers import aisara_router
-from .Aibiike_handlers import Aibiike_router
-from .yrys_handlers import yrys_router
-TOKEN = "7427361367:AAGKMJ1hU9YnqY_hLtIPFNU4HclqcnReBl0gi"
+from islam_handlers import islam_router
+from nazima03_handlers import nazima03_router
+from aijarkyn_handlers import aijarkyn_router
+from aisara_handlers import aisara_router
+from Aibiike_handlers import Aibiike_router
+from yrys_handlers import yrys_router
+TOKEN = "7642790169:AAHQssUgHFKu-RZ_YkUGUx_kO4YaR4H4ZGk"
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 dp.include_router(nazima03_router)

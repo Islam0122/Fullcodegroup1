@@ -1,0 +1,1 @@
+about_me_text = "Hello my name is Aisara!\nI am an english interpreter.\n ⤵️choose one option to get in touch with me ୭ৎ ₊ . ˚  ♡  ⊹"
